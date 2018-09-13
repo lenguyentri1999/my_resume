@@ -98,7 +98,7 @@ Development Platforms &  Android Studio, XCode, Windows, Mac, Linux
 
 \begin{rSection}{Awards \& Activities}
 \textbf{Community Business Collaborative}, \textit{President}, Drexel University Excite Center, 2018 \\
-\textbf{Student Tackling Advanced Research}, \textit{Selected Candidate}, Drexel University, 2018 \\
+\textbf{College of Computing and Informatics}, \textit{Dean's Ambassador}, Drexel University, 2018 \\
 \end{rSection}
 
 \end{document}
